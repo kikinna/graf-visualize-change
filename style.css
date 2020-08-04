@@ -1,0 +1,41 @@
+body {
+  font-family: "Fira Sans";
+  font-size: 22px;
+  /* margin: 0px; */
+}
+
+p {
+  font-family: "Fira Sans";
+  font-size: 12px;
+}
+
+#mapa {
+  height: 200px;
+  width: 200px
+}
+
+.svgimg {
+  fill: red;
+}
+
+.labels {
+  font-family: "Fira Sans";
+  font-size: 1rem;
+}
+
+.values {
+  font-family: "Fira Sans Condensed";
+  font-size: 0.8rem;
+  text-anchor: middle;
+  font-weight: 600;
+  fill: rgb(201, 129, 129);
+}
+
+.change {
+  font-family: "Fira Sans Condensed";
+  font-size: 0.7rem;
+  text-anchor: middle;
+  /* font-weight: bold; */
+  fill: grey;
+  font-style: italic;
+}
